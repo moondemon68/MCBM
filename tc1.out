@@ -1,0 +1,7 @@
+Number of workers: Number of projects: Workers required for project 1: Workers required for project 2: Workers required for project 3: Number of preferences: Preference list:
+Maximum flow: 5
+Worker 1 is assigned to project 3
+Worker 2 is assigned to project 3
+Worker 3 is assigned to project 2
+Worker 4 is assigned to project 1
+Worker 5 is assigned to project 2
